@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9c3b9db-6bc8-427b-b8eb-4e90d6da7b5f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/EmergencyBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/EmergencyBaseCompuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/EmergencyBaseSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/builders/EmergencyBaseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/builders/EmergencyBaseBuilderConcrete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/builders/EmergencyBaseBuilderSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/director/EmergencyServiceDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +42,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/jkort/Universidad/Informatica/PatronesCreacionales1/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -38,9 +58,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683218816011</updated>
-      <workItem from="1683218817100" duration="1000" />
+      <workItem from="1683218817100" duration="3611000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
